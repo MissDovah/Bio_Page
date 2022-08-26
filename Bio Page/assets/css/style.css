@@ -1,0 +1,75 @@
+*{
+box-sizing:border-box;
+}
+
+body{
+    background-size: cover;
+    background-repeat: no repeat;
+    height:auto;
+    background-image: url("../../momo1.png");
+    background-position: center;
+}
+
+
+#bio-name {
+color: rgb(238, 222, 224);
+font-family: sans-serif;
+font-size: 50px;
+text-decoration: underline;
+color: rgb(155, 7, 27);
+text-shadow: 2px 2px 7px #0a0909;
+text-align: center;
+}
+
+
+#img {
+width: 500px;
+position: absolute;
+margin: 16% 36%;
+}
+
+#about {
+    color: rgb(155, 7, 27);
+    font-family: fantasy;
+    line-height: 1.4em;
+    letter-spacing: .01em;
+    text-align: center;
+    margin: 75px 35px 0px 35px;
+    text-decoration: underline;
+}
+
+#bio {
+    color: black;
+    font-size: 125%;
+    font-family: sans serif;
+    text-align: center;
+    margin: 0px 100px 0px 50px;
+    font-weight: bold;
+}
+
+
+#skills {
+    color: rgb(155, 7, 27);
+    font-family: fantasy;
+    text-align: center;
+    margin: 600px 500px 70px 500px;
+    text-decoration: underline;
+    font-size: 150%;
+}
+ ul {
+    margin: -50px 300px 400px 875px;
+    color: black;
+    font-family: sans serif;
+    font-size: 125%;
+    font-weight: bold;
+ }
+
+ #container {
+     height: 900px;
+     height: auto;
+     width: auto;
+   }
+
+#copyright {
+    margin: 10px 200px 500px 900px;
+}
